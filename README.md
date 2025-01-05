@@ -34,4 +34,4 @@ At End: The insertAtEnd function traverses the list to find the last node and ap
 
 The deleteNode function deletes a node by value. It handles cases where the node to be deleted is the head or any other node. If the node isn't found, a message is displayed.
 
-OUTPUT:
+OUTPUT:https://github.com/user-attachments/assets/c0e6311c-0cd0-44fa-8941-3f52cae0a33f"
